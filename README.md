@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I’m Anushree Nema
 
-<!--
-**AnushreeNema/AnushreeNema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergrad @ **UC Irvine**  
+💻 Software Development Intern @ **Infobeans**  
+🧠 AI | Web Dev | Full-Stack Projects | Tech for Good
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 About Me
+
+- 🌱 I’m passionate about building impactful web applications and integrating AI into real-world workflows.
+- 🛠️ I love developing tools that help automate manual processes — from  full stack platforms to educational assistants.
+- 🚀 I enjoy collaborating at the intersection of **AI, UI/UX, and systems engineering**.
+
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,mongodb,git,github,tailwind)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/anushree-nema-609ab71b4/)
+- 📧 anushreenema624@gmail.com
+- 🌎 Irvine, California
+
+---
+
+
+
