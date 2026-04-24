@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Anushree Nema
 
-🎓 Computer Science undergrad @ **UC Irvine**  
+🎓 Computer Science undergrad @ **UC Irvine**
+💻 Incoming Software Development Intern ( Summer 2026 ) @ **Ernst & Young**
 💻 Software Development Intern @ **Infobeans**  
 🧠 AI | Web Dev | Full-Stack Projects | Tech for Good
 
